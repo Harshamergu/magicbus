@@ -1,0 +1,27 @@
+* Learn Linux before Docker. 
+* Learn Bash before Ansible. 
+* Learn Networking before Kubernetes. 
+* Learn Git before CI/CD pipelines. 
+* Learn TCP/IP before Load Balancers. 
+* Learn SSH before remote automation. 
+* Learn YAML before Helm Charts. 
+* Learn Containers before Orchestration. 
+* Learn Logs before Monitoring tools. 
+* Learn Firewalls before Cloud Security. 
+* Learn DNS before Service Discovery. 
+* Learn Cron before Scheduled Jobs in CI. 
+* Learn Virtualization before Containers. 
+* Learn Shell Scripting before Terraform. 
+* Learn HTTP before API Gateways. 
+* Learn Storage before Stateful Sets. 
+* Learn Processes before Process Managers. 
+* Learn Systemd before Service Scaling. 
+
+↳ Learn the foundations before automating the world.
+and more...
+
+- Learn Operating Systems before Cloud Platforms (e.g., AWS, GCP). 
+- Learn Package Managers (e.g., apt, yum) before Configuration Management. 
+- Learn Manual Deployments before Infrastructure as Code (IaC). 
+- Learn Basic Security (e.g., permissions, users) before IAM Roles. 
+- Learn Regex before Log Parsing Tools.
